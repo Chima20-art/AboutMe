@@ -122,7 +122,10 @@ font-size: x-large;
 }
 
 
-@media (min-width:800px){
+@media (max-width:1000px){
+    body{
+        
+    }
     .pageContent{
         flex-direction: column;
         
