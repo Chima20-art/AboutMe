@@ -128,10 +128,12 @@ font-size: x-large;
         
     }
     .aboutDwiv{
-        margin-bottom:10px;
+        margin-bottom:25px;
+
     }
     .factsDiv{
         margin:0px;
+        margin-top: 25px;
         flex-direction: column-reverse;
         
 
