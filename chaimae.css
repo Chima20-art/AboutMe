@@ -1,0 +1,122 @@
+.containerStyle{
+    background-color: #ecdde6;
+    padding:10px;
+    border-radius: 10px;
+    
+    
+}
+.titleContainer{
+    background-color: rgb(248, 242, 242);
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+    
+       
+}
+.titleStyle{
+     font-size: xx-large;
+     text-align: center;
+     font-weight: 600;
+     font-stretch: extra-expanded;
+     font-style: italic;
+     color: rgba(99, 50, 74, 0.671);
+     
+}
+
+.imageStyle{
+    
+    width: 80px;
+    height: 80px;
+        position: absolute;
+        left:3vw;
+        border-radius: 10px;
+
+    }
+.barContainer{
+    height: 60px;
+    background-color:rgba(104, 56, 80, 0.534) ;
+    padding: 10px ;
+    display: flex ;
+    justify-content: space-around;
+    border-radius: 10px;
+    
+
+   
+
+}
+.buttonStyle{
+    border-width: 0px;
+    background-color: rgba(104, 56, 80, 0);
+    color: rgb(245, 236, 238);
+    padding: 10px;
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    border-radius: 10px;
+
+    
+}
+.pageContent{
+    display: flex;
+    
+}
+.aboutDiv{
+background-color:rgba(209, 139, 177, 0.178);
+flex: 1;
+border-radius: 10px;
+padding: 20px;
+color: rgba(99, 50, 74, 0.671);
+font-size: x-large;
+
+}
+.factsDiv{
+    background-color: rgba(218, 164, 189, 0.678);
+    margin-left: 15px;
+    display: flex;
+    border-radius: 10px;
+    padding: 10px;
+    flex: 3;
+    font-size: x-large;
+}
+.imageContainer{
+   flex: 1;
+   margin: 10px;
+   border-radius: 10px;
+   padding: 10px;
+
+}
+.listContainer{
+    flex: 2;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    
+    color:rgba(104, 56, 80, 0.801) ;
+    font-style: italic;
+
+    
+}
+.nameContainer{
+    height: 30px;
+    background-color:  rgba(104, 56, 80, 0.603);
+    border-radius: 10px;
+    padding:10px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-style: italic ;
+    font-weight: 600;
+    font-stretch: extra-expanded;
+    text-align: center;
+    padding: 30px;
+}
+.imageStyle2{
+    width: 280px;
+    height: 380px;
+    border-radius: 5px;
+    
+}
